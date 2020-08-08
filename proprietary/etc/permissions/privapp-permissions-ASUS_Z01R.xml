@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.asus.camera">
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="com.asus.permission.HARDWARE_PROPERTIES"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.asus.ephotoburst">
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.asus.gallery">
+        <permission name="android.permission.DELETE_PACKAGES"/>
+        <permission name="android.permission.LOCAL_MAC_ADDRESS"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.asus.filemanager">
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.LOCAL_MAC_ADDRESS"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.asus.soundrecorder">
+        <permission name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.asus.mobilemanager">
+        <permission name="android.permission.CONNECTIVITY_INTERNAL"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.REAL_GET_TASKS"/>
+        <permission name="android.permission.TETHER_PRIVILEGED"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.SET_ANIMATION_SCALE"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.asus.launcher">
+        <permission name="android.permission.BIND_APPWIDGET"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="com.asus.permission.HIDE_NAVIGATION_FOREVER"/>
+        <permission name="android.permission.STATUS_BAR"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.FORCE_STOP_PACKAGES"/>
+        <permission name="com.asus.permission.MANAGE_APP_ASPECT"/>
+        <permission name="android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"/>
+        <permission name="android.permission.CHANGE_CONFIGURATION"/>
+    </privapp-permissions>
+    <privapp-permissions package="com.asus.launcher3">
+        <permission name="android.permission.BIND_APPWIDGET"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+        <permission name="com.asus.permission.HIDE_NAVIGATION_FOREVER"/>
+        <permission name="android.permission.STATUS_BAR"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.FORCE_STOP_PACKAGES"/>
+        <permission name="com.asus.permission.MANAGE_APP_ASPECT"/>
+        <permission name="android.permission.CONTROL_REMOTE_APP_TRANSITION_ANIMATIONS"/>
+        <permission name="android.permission.CHANGE_CONFIGURATION"/>
+        <permission name="com.asus.permission.HARDWARE_PROPERTIES"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.asus.ephotoburst">
+        <permission name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.asus.gamewidget">
+        <permission name="com.asus.permission.MANAGE_APP_ASPECT"/>
+        <permission name="com.asus.permission.HARDWARE_PROPERTIES"/>
+        <permission name="android.permission.MODIFY_PHONE_STATE"/>
+        <permission name="com.asus.permission.TOP_OF_EVERYTHING"/>
+        <permission name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
+        <permission name="android.permission.STATUS_BAR"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.asus.screenrecorder">
+        <permission name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+    </privapp-permissions>
+
+    <privapp-permissions package="com.asus.powersaver">
+        <permission name="android.permission.BATTERY_STATS"/>
+        <permission name="android.permission.CONTROL_LOCATION_UPDATES"/>
+        <permission name="android.permission.FORCE_STOP_PACKAGES"/>
+        <permission name="android.permission.MANAGE_USERS"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+    </privapp-permissions>
+
+</permissions>
